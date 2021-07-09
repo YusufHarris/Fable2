@@ -29,7 +29,7 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#portfolio">Podcast</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#podcast">Podcast</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#about">Mission</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#contact">Contact</a></li>
                     </ul>
@@ -54,7 +54,7 @@
             </div>
         </header>
         <!-- Podcast Section-->
-        <section class="page-section portfolio" id="portfolio">
+        <section class="page-section podcast" id="podcast">
             <div class="container">
                 <!-- Podcast Section Heading-->
                 <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Podcast</h2>
@@ -68,56 +68,56 @@
                 <div class="row justify-content-center">
                     <!-- Podcast Item 1-->
                     <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                        <div class="podcast-item mx-auto" data-bs-toggle="modal" data-bs-target="#podcastModal1">
+                            <div class="podcast-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="podcast-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/podcast/cabin.png" alt="..." />
                         </div>
                     </div>
                     <!-- Podcast Item 2-->
                     <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal2">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                        <div class="podcast-item mx-auto" data-bs-toggle="modal" data-bs-target="#podcastModal2">
+                            <div class="podcast-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="podcast-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/cake.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/podcast/cake.png" alt="..." />
                         </div>
                     </div>
                     <!-- Podcast Item 3-->
                     <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal3">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                        <div class="podcast-item mx-auto" data-bs-toggle="modal" data-bs-target="#podcastModal3">
+                            <div class="podcast-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="podcast-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/podcast/circus.png" alt="..." />
                         </div>
                     </div>
                     <!-- Podcast Item 4-->
                     <div class="col-md-6 col-lg-4 mb-5 mb-lg-0">
-                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal4">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                        <div class="podcast-item mx-auto" data-bs-toggle="modal" data-bs-target="#podcastModal4">
+                            <div class="podcast-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="podcast-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/game.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/podcast/game.png" alt="..." />
                         </div>
                     </div>
                     <!-- Podcast Item 5-->
                     <div class="col-md-6 col-lg-4 mb-5 mb-md-0">
-                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal5">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                        <div class="podcast-item mx-auto" data-bs-toggle="modal" data-bs-target="#podcastModal5">
+                            <div class="podcast-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="podcast-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/safe.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/podcast/safe.png" alt="..." />
                         </div>
                     </div>
                     <!-- Podcast Item 6-->
                     <div class="col-md-6 col-lg-4">
-                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal6">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                        <div class="podcast-item mx-auto" data-bs-toggle="modal" data-bs-target="#podcastModal6">
+                            <div class="podcast-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="podcast-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/submarine.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/podcast/submarine.png" alt="..." />
                         </div>
                     </div>
                 </div>
@@ -258,7 +258,7 @@
         </div>
         <!-- Podcast Modals-->
         <!-- Podcast Modal 1-->
-        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" aria-labelledby="portfolioModal1" aria-hidden="true">
+        <div class="podcast-modal modal fade" id="podcastModal1" tabindex="-1" aria-labelledby="podcastModal1" aria-hidden="true">
             <div class="modal-dialog modal-xl">
                 <div class="modal-content">
                     <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
@@ -267,7 +267,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Podcast Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Log Cabin</h2>
+                                    <h2 class="podcast-modal-title text-secondary text-uppercase mb-0">Log Cabin</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -275,7 +275,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Podcast Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/podcast/cabin.png" alt="..." />
                                     <!-- Podcast Modal - Text-->
                                     <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
@@ -290,7 +290,7 @@
             </div>
         </div>
         <!-- Podcast Modal 2-->
-        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" aria-labelledby="portfolioModal2" aria-hidden="true">
+        <div class="podcast-modal modal fade" id="podcastModal2" tabindex="-1" aria-labelledby="podcastModal2" aria-hidden="true">
             <div class="modal-dialog modal-xl">
                 <div class="modal-content">
                     <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
@@ -299,7 +299,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Podcast Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Tasty Cake</h2>
+                                    <h2 class="podcast-modal-title text-secondary text-uppercase mb-0">Tasty Cake</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -307,7 +307,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Podcast Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cake.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/podcast/cake.png" alt="..." />
                                     <!-- Podcast Modal - Text-->
                                     <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
@@ -322,7 +322,7 @@
             </div>
         </div>
         <!-- Podcast Modal 3-->
-        <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" aria-labelledby="portfolioModal3" aria-hidden="true">
+        <div class="podcast-modal modal fade" id="podcastModal3" tabindex="-1" aria-labelledby="podcastModal3" aria-hidden="true">
             <div class="modal-dialog modal-xl">
                 <div class="modal-content">
                     <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
@@ -331,7 +331,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Podcast Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Circus Tent</h2>
+                                    <h2 class="podcast-modal-title text-secondary text-uppercase mb-0">Circus Tent</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -339,7 +339,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Podcast Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/circus.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/podcast/circus.png" alt="..." />
                                     <!-- Podcast Modal - Text-->
                                     <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
@@ -354,7 +354,7 @@
             </div>
         </div>
         <!-- Podcast Modal 4-->
-        <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" aria-labelledby="portfolioModal4" aria-hidden="true">
+        <div class="podcast-modal modal fade" id="podcastModal4" tabindex="-1" aria-labelledby="podcastModal4" aria-hidden="true">
             <div class="modal-dialog modal-xl">
                 <div class="modal-content">
                     <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
@@ -363,7 +363,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Podcast Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Controller</h2>
+                                    <h2 class="podcast-modal-title text-secondary text-uppercase mb-0">Controller</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -371,7 +371,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Podcast Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/game.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/podcast/game.png" alt="..." />
                                     <!-- Podcast Modal - Text-->
                                     <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
@@ -386,7 +386,7 @@
             </div>
         </div>
         <!-- Podcast Modal 5-->
-        <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" aria-labelledby="portfolioModal5" aria-hidden="true">
+        <div class="podcast-modal modal fade" id="podcastModal5" tabindex="-1" aria-labelledby="podcastModal5" aria-hidden="true">
             <div class="modal-dialog modal-xl">
                 <div class="modal-content">
                     <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
@@ -395,7 +395,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Podcast Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Locked Safe</h2>
+                                    <h2 class="podcast-modal-title text-secondary text-uppercase mb-0">Locked Safe</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -403,7 +403,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Podcast Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/safe.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/podcast/safe.png" alt="..." />
                                     <!-- Podcast Modal - Text-->
                                     <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
@@ -418,7 +418,7 @@
             </div>
         </div>
         <!-- Podcast Modal 6-->
-        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" aria-labelledby="portfolioModal6" aria-hidden="true">
+        <div class="podcast-modal modal fade" id="podcastModal6" tabindex="-1" aria-labelledby="podcastModal6" aria-hidden="true">
             <div class="modal-dialog modal-xl">
                 <div class="modal-content">
                     <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
@@ -427,7 +427,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Podcast Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Submarine</h2>
+                                    <h2 class="podcast-modal-title text-secondary text-uppercase mb-0">Submarine</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -435,7 +435,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Podcast Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/submarine.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/podcast/submarine.png" alt="..." />
                                     <!-- Podcast Modal - Text-->
                                     <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
