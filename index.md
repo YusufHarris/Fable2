@@ -36,12 +36,17 @@
             </div>
         </nav>
         <!-- Masthead-->
-          <section class="u-align-center u-clearfix u-image u-shading u-section-1" src="" data-image-width="1280" data-image-height="814" id="sec-81cc">
-            <div class="u-clearfix u-sheet u-sheet-1">
-              <h1 class="u-custom-font u-font-raleway u-text u-title u-text-1">Fable for Growth</h1>
-              <p class="u-large-text u-text u-text-variant u-text-2">Ideas that enrich your outlook.</p>
-            </div>
-          </section>
+        <header class="py-5">
+          <div class="container px-lg-5">
+              <div class="p-4 p-lg-5 bg-light rounded-3 text-center">
+                  <div class="m-4 m-lg-5">
+                      <h1 class="display-5 fw-bold">A warm welcome!</h1>
+                      <p class="fs-4">Bootstrap utility classes are used to create this jumbotron since the old component has been removed from the framework. Why create custom CSS when you can use utilities?</p>
+                      <a class="btn btn-primary btn-lg" href="#!">Call to action</a>
+                  </div>
+              </div>
+          </div>
+          </header>
         <!-- Podcast Section-->
         <section class="page-section podcast" id="podcast">
             <div class="container">
