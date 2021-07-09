@@ -36,22 +36,12 @@
             </div>
         </nav>
         <!-- Masthead-->
-        <header class="masthead bg-primary text-white text-center">
-            <div class="container d-flex align-items-center flex-column">
-                <!-- Masthead Avatar Image-->
-                <img class="masthead-avatar mb-5" src="assets/img/avataaars.svg" alt="..." />
-                <!-- Masthead Heading-->
-                <h1 class="masthead-heading text-uppercase mb-0"></h1>
-                <!-- Icon Divider-->
-                <div class="divider-custom divider-light">
-                    <div class="divider-custom-line"></div>
-                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                    <div class="divider-custom-line"></div>
-                </div>
-                <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-light mb-0">Graphic Artist - Web Designer - Illustrator</p>
+          <section class="u-align-center u-clearfix u-image u-shading u-section-1" src="" data-image-width="1280" data-image-height="814" id="sec-81cc">
+            <div class="u-clearfix u-sheet u-sheet-1">
+              <h1 class="u-custom-font u-font-raleway u-text u-title u-text-1">Fable for Growth</h1>
+              <p class="u-large-text u-text u-text-variant u-text-2">Ideas that enrich your outlook.</p>
             </div>
-        </header>
+          </section>
         <!-- Podcast Section-->
         <section class="page-section podcast" id="podcast">
             <div class="container">
