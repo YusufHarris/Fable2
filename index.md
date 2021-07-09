@@ -19,7 +19,7 @@
     </head>
     <body id="page-top">
         <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg footer text-uppercase fixed-top" id="mainNav">
+        <nav class="navbar navbar-expand-lg brown text-uppercase fixed-top" id="mainNav">
             <div class="container">
                 <a class="navbar-brand" href="#page-top"><img src="assets/img/Fable.svg"></a>
                 <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -36,17 +36,12 @@
             </div>
         </nav>
         <!-- Masthead-->
-        <header class="py-5 ">
-          <div class="container px-lg-10">
-          <img class="bg-img" src="assets/img/bg-image.jpg" alt="...">
-              <div class="p-4 p-lg-5 bg-light rounded-3 text-center">
-                  <div class="m-4 m-lg-5">
-                      <h1 class="display-5 fw-bold">A warm welcome!</h1>
-                      <p class="fs-4">Bootstrap utility classes are used to create this jumbotron since the old component has been removed from the framework. Why create custom CSS when you can use utilities?</p>
-                  </div>
-              </div>
-          </div>
-          </header>
+          <section class="u-align-center u-clearfix u-image u-shading u-section-1" src="" data-image-width="1280" data-image-height="814" id="sec-81cc">
+            <div class="u-clearfix u-sheet u-sheet-1">
+              <h1 class="u-custom-font u-font-raleway u-text u-title u-text-1">Fable for Growth</h1>
+              <p class="u-large-text u-text u-text-variant u-text-2">Ideas that enrich your outlook.</p>
+            </div>
+          </section>
         <!-- Podcast Section-->
         <section class="page-section podcast" id="podcast">
             <div class="container">
