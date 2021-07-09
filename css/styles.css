@@ -7412,6 +7412,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   background-color: #9a8870 !important;
+  background-image:url('img src="assets/img/bg-image.jpg');;
 }
 
 .bg-secondary {
