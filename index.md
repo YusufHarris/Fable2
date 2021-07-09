@@ -38,7 +38,6 @@
         <!-- Masthead-->
         <header class="py-5">
           <div class="container bg-image style="background-image:url('img src="assets/img/bg-image.jpg');" px-lg-10">
-          <img class="bg-img" src="assets/img/bg-image.jpg" alt="...">
               <div class="p-4 p-lg-5 bg-light rounded-3 text-center">
                   <div class="m-4 m-lg-5">
                       <h1 class="display-5 fw-bold">A warm welcome!</h1>
