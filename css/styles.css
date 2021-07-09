@@ -11040,7 +11040,7 @@ html {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(26, 188, 156, 0.9);
+  background-color:#b3afa7;
 }
 .podcast .podcast-item .podcast-item-caption:hover {
   opacity: 1;
