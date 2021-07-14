@@ -50,7 +50,6 @@
   }
 }.u-section-2 {
   background-image: url("images/pexels-photo-5646794.jpeg");
-  background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -96,6 +95,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-2 {
+    background-position: 50% 50%;
+  }
+
   .u-section-2 .u-sheet-1 {
     min-height: 480px;
   }
