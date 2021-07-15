@@ -40,7 +40,7 @@
     <meta property="og:type" content="website">
   </head>
   <body data-home-page="index.html" data-home-page-title="index" class="u-body u-gradient u-overlap u-overlap-contrast" style="background-image: linear-gradient(#478ac9, #db545a);"><header class="navigation u-clearfix u-custom-color-1 u-header u-header" id="sec-e5f6"><div class="u-clearfix u-sheet u-sheet-1">
-        <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="385" data-image-height="213">
+        <a href="https://fableforgrowth.com" class="u-image u-logo u-image-1" data-image-width="385" data-image-height="213">
           <img src="images/Fable.svg" class="u-logo-image u-logo-image-1" data-image-width="111.5429">
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
